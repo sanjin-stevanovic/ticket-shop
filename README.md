@@ -1,2 +1,2 @@
 # ticket-shop
-hello
+hello from script
